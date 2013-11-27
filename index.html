@@ -1,0 +1,26 @@
+<!doctype html>
+<html>
+<head>
+    <title>Proyecto Inf-323</title>
+    <link rel="stylesheet" href="css/game.css">
+</head>
+<body>
+    <div id="container" class="game"></div>
+
+    <script src="lib/class.js"></script>
+    <script src="lib/jquery.js"></script>
+    <script src="lib/three.js"></script>
+    <script src="lib/physi.js"></script>
+
+    <script>
+        Physijs.scripts.worker = '/lib/physijs_worker.js';
+        Physijs.scripts.ammo = '/lib/ammo.js';
+    </script>
+
+    <script src="js/Ground.js"></script>
+    <script src="js/SoccerBall.js"></script>
+    <script src="js/Player.js"></script>
+    <script src="js/Game.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

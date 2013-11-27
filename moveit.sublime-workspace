@@ -1,0 +1,1450 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"options",
+				"fs.WriteStream(path, options);"
+			],
+			[
+				"image",
+				"imageUrl"
+			],
+			[
+				"list",
+				"list-style"
+			],
+			[
+				"paddin",
+				"padding"
+			],
+			[
+				"marg",
+				"margin"
+			],
+			[
+				"bot",
+				"both"
+			],
+			[
+				"inlin",
+				"inline-block"
+			],
+			[
+				"margin",
+				"margin"
+			],
+			[
+				"padd",
+				"padding-top"
+			],
+			[
+				"link",
+				"link	link - stylesheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "js/main.js",
+			"settings":
+			{
+				"buffer_size": 1088,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/Player.js",
+			"settings":
+			{
+				"buffer_size": 853,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/Game.js",
+			"settings":
+			{
+				"buffer_size": 1412,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "js/SoccerBall.js",
+			"settings":
+			{
+				"buffer_size": 851,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "index.html",
+			"settings":
+			{
+				"buffer_size": 613,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 76.0,
+		"selected_items":
+		[
+			[
+				"NEWFI",
+				"File: New File Relative to Current View"
+			],
+			[
+				"show erro",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"javascr",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"java",
+				"Set Syntax: Java"
+			],
+			[
+				"renam",
+				"File: Rename"
+			],
+			[
+				"new file",
+				"File: New File Relative to Current View"
+			],
+			[
+				"doct",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"html",
+				"Set Syntax: HTML5"
+			],
+			[
+				"show",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"javasc",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"doc",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"rename",
+				"File: Rename"
+			],
+			[
+				"lore",
+				"Snippet: Lorem ipsum"
+			],
+			[
+				"show er",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"show err",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"docty",
+				"Snippet: DOCTYPE HTML"
+			],
+			[
+				"css",
+				"Set Syntax: CSS"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"word",
+				"Word Wrap: Toggle"
+			],
+			[
+				"toggle",
+				"Toggle Comment"
+			],
+			[
+				"color",
+				"Color picker"
+			],
+			[
+				"newf",
+				"File: New File Relative to Current View"
+			],
+			[
+				"colorp",
+				"Color picker"
+			],
+			[
+				"html5",
+				"Set Syntax: HTML5"
+			],
+			[
+				"java ",
+				"Set Syntax: Java"
+			],
+			[
+				"format",
+				"Eclipse: Format Java"
+			],
+			[
+				"jquery read",
+				"Snippet: jQuery(document).ready"
+			],
+			[
+				"jqueryre",
+				"Snippet: jQuery ready function"
+			],
+			[
+				"jump",
+				"TernJS: Jump to definition"
+			],
+			[
+				"ternjs",
+				"TernJS: Jump to definition"
+			],
+			[
+				"delete",
+				"File: Delete"
+			],
+			[
+				"showerr",
+				"SublimeLinter: Show Error List"
+			],
+			[
+				"python",
+				"Set Syntax: Python"
+			],
+			[
+				"json",
+				"AngularJS: Look Up Definition"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"django",
+				"Set Syntax: HTML (Django)"
+			],
+			[
+				"djang",
+				"Set Syntax: Python Django"
+			],
+			[
+				"browser",
+				"View In Browser"
+			],
+			[
+				"install ",
+				"Package Control: Install Package"
+			],
+			[
+				"jquery",
+				"Snippet: jQuery.ajax"
+			]
+		],
+		"width": 462.0
+	},
+	"console":
+	{
+		"height": 262.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/home/donkeysharp/code/repos/moveit/index.html",
+		"/home/donkeysharp/code/repos/moveit/lib/three.js",
+		"/home/donkeysharp/code/repos/moveit/lib/physi.js",
+		"/home/donkeysharp/code/repos/moveit/css/game.css",
+		"/home/donkeysharp/code/repos/moveit/js/Game.js",
+		"/home/donkeysharp/code/repos/moveit/js/Game.ks",
+		"/home/donkeysharp/code/web/webgl/game/game.js",
+		"/home/donkeysharp/code/web/webgl/libs/physi.js",
+		"/home/donkeysharp/code/web/webgl/libs/sim.js",
+		"/home/donkeysharp/code/web/webgl/game/SoccerBall.js",
+		"/home/donkeysharp/code/web/webgl/game/Player.js",
+		"/home/donkeysharp/code/web/webgl/game/index.html",
+		"/home/donkeysharp/code/web/webgl/libs/requestanimationframe.js",
+		"/home/donkeysharp/code/web/webgl/libs/three.js",
+		"/home/donkeysharp/code/web/webgl/04/tween-basic.js",
+		"/home/donkeysharp/lagrange.html",
+		"/home/donkeysharp/lagrange.js",
+		"/home/donkeysharp/code/web/webgl/libs/jquery.js",
+		"/home/donkeysharp/code/web/webgl/03/earth-lit.js",
+		"/home/donkeysharp/code/web/webgl/04/tween-basic.html",
+		"/home/donkeysharp/code/web/webgl/03/solarSystem2.js",
+		"/home/donkeysharp/code/web/webgl/03/earth-moon.js",
+		"/home/donkeysharp/code/web/webgl/game/main.js",
+		"/home/donkeysharp/code/web/webgl/libs/tween.js",
+		"/home/donkeysharp/code/web/webgl/03/saturn.js",
+		"/home/donkeysharp/code/web/webgl/03/stars.js",
+		"/home/donkeysharp/code/web/webgl/03/planet.js",
+		"/home/donkeysharp/code/web/webgl/03/solar-system-1.html",
+		"/home/donkeysharp/linear.py",
+		"/home/donkeysharp/code/web/webgl/03/sun-shader.js",
+		"/home/donkeysharp/code/web/webgl/03/orbit.js",
+		"/home/donkeysharp/code/web/webgl/03/earth.js",
+		"/home/donkeysharp/code/web/webgl/03/earth-moon.html",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/GL Shader Validator/GLShaderValidator.sublime-settings",
+		"/home/donkeysharp/code/web/webgl/README.md",
+		"/home/donkeysharp/code/web/webgl/03/earth-shader.html",
+		"/home/donkeysharp/code/web/webgl/03/earth-shader.js",
+		"/home/donkeysharp/code/web/webgl/img/earth_normal_2048.jpg",
+		"/home/donkeysharp/code/web/webgl/img/earth_clouds_1024.png",
+		"/home/donkeysharp/code/web/webgl/02/main2.js",
+		"/home/donkeysharp/code/web/webgl/03/index1.html",
+		"/home/donkeysharp/code/web/webgl/03/earth-lit.html",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/Default/Default (Linux).sublime-keymap",
+		"/home/donkeysharp/code/web/webgl/03/main1.js",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/User/Default (Linux).sublime-keymap",
+		"/home/donkeysharp/code/web/webgl/02/index2.html",
+		"/home/donkeysharp/code/web/webgl/css/main.css",
+		"/home/donkeysharp/code/web/webgl/libs/jquery.mousewheel.js",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/User/CSS.sublime-settings",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/User/JavaScript.sublime-settings",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/donkeysharp/code/web/webgl/02/index.html",
+		"/home/donkeysharp/code/web/webgl/02/main.js",
+		"/home/donkeysharp/code/web/webgl/libs/three.min.js",
+		"/home/donkeysharp/code/web/webgl/01/index.html",
+		"/home/donkeysharp/code/web/webgl/01/glMatrix-0.9.5.min.js",
+		"/home/donkeysharp/code/repos/nobeer/assets/nobeer_player.png",
+		"/home/donkeysharp/code/repos/nobeer/lib/crafty.js",
+		"/home/donkeysharp/code/repos/nobeer/js/main.js",
+		"/home/donkeysharp/code/repos/nobeer/js/game.js",
+		"/home/donkeysharp/code/repos/nobeer/js/game",
+		"/home/donkeysharp/code/repos/nobeer/index.html",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/User/HTML.sublime-settings",
+		"/home/donkeysharp/code/repos/mygame/lib/crafty.js",
+		"/home/donkeysharp/code/repos/mygame/js/styles.js",
+		"/home/donkeysharp/code/repos/mygame/index.html",
+		"/home/donkeysharp/code/repos/mygame/css/base.css",
+		"/home/donkeysharp/code/repos/mygame/js/scenes.js",
+		"/home/donkeysharp/code/repos/mygame/js/main.js",
+		"/home/donkeysharp/code/repos/mygame/js/game.js",
+		"/home/donkeysharp/code/repos/mygame/js/Game.js",
+		"/home/donkeysharp/Escritorio/asd.java",
+		"/home/donkeysharp/Escritorio/package com.example.androidmultichoicelist;",
+		"/home/donkeysharp/code/repos/mygame/lib/jquery.js",
+		"/home/donkeysharp/code/repos/mygame/mygame.sublime-project",
+		"/home/donkeysharp/code/repos/cabezon/index.html",
+		"/home/donkeysharp/code/repos/cabezon/js/main.js",
+		"/home/donkeysharp/code/repos/cabezon/lib/easel.js",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/TernJS/TernJS.sublime-settings",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/SublimeCodeIntel/SublimeCodeIntel.sublime-settings",
+		"/home/donkeysharp/code/repos/cabezon/css/main.css",
+		"/home/donkeysharp/code/repos/cabezon/lib/jquery.js",
+		"/home/donkeysharp/code/repos/cabezon/lib/jquery.js~",
+		"/home/donkeysharp/code/repos/cabezon/README.md",
+		"/home/donkeysharp/code/repos/cabezon/lib/gamequery.js",
+		"/home/donkeysharp/code/repos/cabezon/asd.py",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/User/Python.sublime-settings",
+		"/home/donkeysharp/.config/sublime-text-2/Packages/User/JSON.sublime-settings",
+		"/home/donkeysharp/code/repos/yaps/server.js",
+		"/home/donkeysharp/code/repos/yaps/yaps.sublime-workspace",
+		"/home/neoncyber/code/repos/yaps/testing/test.html",
+		"/home/neoncyber/code/repos/yaps/package.json",
+		"/home/neoncyber/code/repos/yaps/server.js",
+		"/home/neoncyber/code/repos/yaps/test.html",
+		"/home/neoncyber/code/repos/yaps/test",
+		"/home/neoncyber/code/repos/teambook/algorithms/numberTheory/binaryExponentiation.cpp",
+		"/home/neoncyber/.config/sublime-text-2/Packages/Default/Preferences.sublime-settings",
+		"/home/neoncyber/code/web/tutorial/app/partials/phone-list.html",
+		"/home/neoncyber/code/web/tutorial/app/partials/phone-detail.html",
+		"/home/neoncyber/code/web/tutorial/app/js/controllers.js",
+		"/home/neoncyber/code/web/tutorial/app/js/filters.js",
+		"/home/neoncyber/code/web/tutorial/app/index.html",
+		"/home/neoncyber/code/web/tutorial/app/js/app.js",
+		"/home/neoncyber/code/web/tutorial/app/css/app.css",
+		"/home/neoncyber/code/web/tutorial/app/phones/dell-venue.json",
+		"/home/neoncyber/code/web/tutorial/app/phones/phones.json",
+		"/home/neoncyber/code/web/tutorial/app/phones/nexus-s.json",
+		"/home/neoncyber/code/web/tutorial/app/phones/samsung-gem.json",
+		"/home/neoncyber/code/web/tutorial/app/phones/dell-streak-7.json",
+		"/home/neoncyber/code/web/tutorial/app/phones/motorola-atrix-4g.json",
+		"/home/neoncyber/code/web/tutorial/app/phones/motorola-xoom.json",
+		"/home/neoncyber/code/web/tutorial/app/phones/motorola-xoom-with-wi-fi.json",
+		"/home/neoncyber/code/web/tutorial/app/js/services.js",
+		"/home/neoncyber/code/AngularJS/examples/tutorial/app/index.html",
+		"/home/neoncyber/code/AngularJS/examples/example2/todo.js",
+		"/home/neoncyber/code/AngularJS/examples/example1.html",
+		"/home/neoncyber/code/AngularJS/examples/example2/index.html",
+		"/home/neoncyber/code/AngularJS/examples/angular.min.js",
+		"/home/neoncyber/.config/sublime-text-2/Packages/Tag/Tag Package.sublime-settings",
+		"/home/neoncyber/.config/sublime-text-2/Packages/User/Preferences.sublime-settings",
+		"/home/neoncyber/.config/sublime-text-2/Packages/SideBarEnhancements/messages/11.13.2012.1305.0.txt"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"addmes",
+			"THREE.Scene",
+			"Physijs.Scene",
+			"Physijs.Scene.prototype.exec",
+			"Physijs.Scene.prototype",
+			"execute'",
+			"ammo.js",
+			"Physijs.Mesh =",
+			"Physijs.Mesh",
+			"THREE.Sphere",
+			"THREE.Mesh",
+			"update",
+			"scene = ",
+			"getsce",
+			"scene = ",
+			".worker",
+			"camera.",
+			"camera.}",
+			"KeyCodes",
+			"charc",
+			"key",
+			".sub",
+			"initKeyboard",
+			"onKeyDown",
+			"onKeydow",
+			"handlekeydown",
+			"alert",
+			"keypress",
+			"keydown",
+			"keydow",
+			"keydown",
+			"deallocate",
+			"deallocateObject",
+			"deallocate",
+			"__removeObject",
+			"var index = this.children.indexOf( object );",
+			"event",
+			"on =",
+			"on",
+			"this.scene",
+			"removeobject",
+			"remove",
+			"clear",
+			"gl.",
+			"clear",
+			"delete",
+			"destroy",
+			".y",
+			"tween",
+			"intersectObjects",
+			"THREE.Raycaster",
+			"THREE.Ray",
+			"intersectSce",
+			"scene",
+			"subself",
+			"subset",
+			"subself",
+			"earth",
+			"minDistance",
+			"mouse",
+			"THREE.UV",
+			"THREE.Vertex",
+			"faceVertexUvs",
+			"THREE.Vertex",
+			"addChild",
+			"vertex",
+			"faceVertexUvs",
+			"vertext",
+			"vertex",
+			"THREE.Vertext",
+			"vertex",
+			"wrapS",
+			"loadtexture:",
+			"loadtexture",
+			"add = ",
+			"meshphongmaterial",
+			"util",
+			"shaderU",
+			"shader",
+			"ShaderUtils",
+			"normal",
+			"win",
+			"up\"",
+			"eol",
+			"goto",
+			"run",
+			"update",
+			"renderer",
+			"sim",
+			"prototype.init",
+			".init",
+			"init",
+			"camera",
+			"space",
+			"spaces",
+			"move_to",
+			"ctrl+e",
+			"Earth",
+			"\n};",
+			"'';\n",
+			"ctrl+shift+k",
+			"ctrl+d",
+			"font",
+			"light",
+			"antialias",
+			"true",
+			"cube",
+			"updateProjectionMatrix",
+			"UP_ARROW",
+			"right_arro",
+			"animate:",
+			"scene:",
+			"at:",
+			"this.",
+			"trigger:",
+			"\n  ",
+			"move(",
+			".move(",
+			"move(",
+			"move:",
+			"38",
+			"e.",
+			"38",
+			"NewDirection",
+			"\"NewDirection",
+			"38",
+			"_keys",
+			"keyboardDispatch"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"}\n"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "js/main.js",
+					"settings":
+					{
+						"buffer_size": 1088,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								784,
+								784
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 54.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "js/Player.js",
+					"settings":
+					{
+						"buffer_size": 853,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								634,
+								634
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "js/Game.js",
+					"settings":
+					{
+						"buffer_size": 1412,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1402,
+								1402
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 540.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "js/SoccerBall.js",
+					"settings":
+					{
+						"buffer_size": 851,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								391,
+								391
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/JavaScript/JavaScript.tmLanguage",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				},
+				{
+					"buffer": 4,
+					"file": "index.html",
+					"settings":
+					{
+						"buffer_size": 613,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								504,
+								504
+							]
+						],
+						"settings":
+						{
+							"annotations":
+							[
+								"TODO",
+								"README",
+								"FIXME"
+							],
+							"csslint_options":
+							{
+								"adjoining-classes": "warning",
+								"box-model": true,
+								"box-sizing": "warning",
+								"compatible-vendor-prefixes": "warning",
+								"display-property-grouping": true,
+								"duplicate-background-images": "warning",
+								"duplicate-properties": true,
+								"empty-rules": true,
+								"errors": true,
+								"fallback-colors": "warning",
+								"floats": "warning",
+								"font-faces": "warning",
+								"font-sizes": "warning",
+								"gradients": "warning",
+								"ids": "warning",
+								"import": "warning",
+								"important": "warning",
+								"known-properties": true,
+								"outline-none": "warning",
+								"overqualified-elements": "warning",
+								"qualified-headings": "warning",
+								"regex-selectors": "warning",
+								"rules-count": "warning",
+								"shorthand": "warning",
+								"star-property-hack": "warning",
+								"text-indent": "warning",
+								"underscore-property-hack": "warning",
+								"unique-headings": "warning",
+								"universal-selector": "warning",
+								"vendor-prefix": true,
+								"zero-units": "warning"
+							},
+							"gjslint_ignore":
+							[
+								110.0
+							],
+							"gjslint_options":
+							[
+							],
+							"glsv_configured": true,
+							"glsv_enabled": 1.0,
+							"glsv_spec": 0.0,
+							"is_xml": false,
+							"javascript_linter": "jshint",
+							"jshint_options":
+							{
+								"browser": true,
+								"evil": true,
+								"regexdash": true,
+								"sub": true,
+								"trailing": true,
+								"wsh": true
+							},
+							"pep8": true,
+							"pep8_ignore":
+							[
+								"E501"
+							],
+							"perl_linter": "perlcritic",
+							"pyflakes_ignore":
+							[
+							],
+							"pyflakes_ignore_import_*": true,
+							"sublimelinter": true,
+							"sublimelinter_delay": 2.0,
+							"sublimelinter_disable":
+							[
+							],
+							"sublimelinter_executable_map":
+							{
+							},
+							"sublimelinter_fill_outlines": false,
+							"sublimelinter_gutter_marks": true,
+							"sublimelinter_gutter_marks_theme": "simple",
+							"sublimelinter_mark_style": "none",
+							"sublimelinter_notes": false,
+							"sublimelinter_objj_check_ascii": false,
+							"sublimelinter_popup_errors_on_save": false,
+							"sublimelinter_syntax_map":
+							{
+								"C++": "c",
+								"Python Django": "python",
+								"Ruby on Rails": "ruby"
+							},
+							"sublimelinter_wrap_find": true,
+							"syntax": "Packages/HTML5/Syntaxes/HTML 5.tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 35.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 124.0
+	},
+	"output.unsaved_changes":
+	{
+		"height": 124.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"index",
+				"index.html"
+			],
+			[
+				"three.",
+				"lib/three.js"
+			],
+			[
+				"three.js",
+				"lib/three.js"
+			],
+			[
+				"physi",
+				"lib/physi.js"
+			],
+			[
+				"ph",
+				"lib/physi.js"
+			],
+			[
+				"game",
+				"js/Game.js"
+			],
+			[
+				"sim.js",
+				"libs/sim.js"
+			],
+			[
+				"hys",
+				"libs/physi.js"
+			],
+			[
+				"sima",
+				"libs/requestanimationframe.js"
+			],
+			[
+				"the",
+				"libs/three.js"
+			],
+			[
+				"three",
+				"libs/three.js"
+			],
+			[
+				"sim.",
+				"libs/sim.js"
+			],
+			[
+				"sim",
+				"libs/sim.js"
+			],
+			[
+				"sat",
+				"03/saturn.js"
+			],
+			[
+				"stars.",
+				"03/stars.js"
+			],
+			[
+				"orbi",
+				"03/orbit.js"
+			],
+			[
+				"stars.js",
+				"03/stars.js"
+			],
+			[
+				"saturn.js",
+				"03/saturn.js"
+			],
+			[
+				"earth-moon",
+				"03/earth-moon.js"
+			],
+			[
+				"earth.js",
+				"03/earth.js"
+			],
+			[
+				"earth-moo",
+				"03/earth-moon.html"
+			],
+			[
+				"sun-shader",
+				"03/sun-shader.js"
+			],
+			[
+				"readme",
+				"README.md"
+			],
+			[
+				"earth",
+				"03/earth-shader.js"
+			],
+			[
+				"earth-sa",
+				"03/earth-shader.html"
+			],
+			[
+				"thre",
+				"libs/three.js"
+			],
+			[
+				"ea",
+				"03/earth-lit.js"
+			],
+			[
+				"index1",
+				"03/index1.html"
+			],
+			[
+				"main1",
+				"03/main1.js"
+			],
+			[
+				"main.css",
+				"css/main.css"
+			],
+			[
+				"css",
+				"css/main.css"
+			],
+			[
+				"craf",
+				"lib/crafty.js"
+			],
+			[
+				"main",
+				"js/main.js"
+			],
+			[
+				"craft",
+				"lib/crafty.js"
+			],
+			[
+				"in",
+				"index.html"
+			],
+			[
+				"cra",
+				"lib/crafty.js"
+			],
+			[
+				"inde",
+				"index.html"
+			],
+			[
+				"app",
+				"js/app.js"
+			],
+			[
+				"filte",
+				"js/filters.js"
+			],
+			[
+				"detai",
+				"partials/phone-detail.html"
+			],
+			[
+				"app.css",
+				"css/app.css"
+			],
+			[
+				"dell",
+				"phones/dell-venue.json"
+			],
+			[
+				"deta",
+				"partials/phone-detail.html"
+			],
+			[
+				"phon",
+				"phones/phones.json"
+			],
+			[
+				"ser",
+				"js/services.js"
+			],
+			[
+				"app.js",
+				"js/app.js"
+			],
+			[
+				"oh",
+				"phones/phones.json"
+			],
+			[
+				"phone",
+				"phones/phones.json"
+			],
+			[
+				"controll",
+				"js/controllers.js"
+			],
+			[
+				"app.ss",
+				"css/app.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/home/donkeysharp/code/web/webgl/webgl.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 216.0,
+	"status_bar_visible": true
+}

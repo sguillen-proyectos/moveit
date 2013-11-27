@@ -1,0 +1,28 @@
+<!doctype html>
+<html>
+<head>
+    <title></title>
+    <script src="lib/class.js"></script>
+    <script>
+        function test() {
+            Persona = Class.extend({
+                init: function(a) {
+                    this.a = a;
+                },
+                dance: function() {
+                    alert('dance!!!! ->' + this.a);
+                }
+            });
+
+            var a = new Persona('ooo');
+            a.dance();
+
+
+        }
+        test();
+    </script>
+</head>
+<body>
+
+</body>
+</html>
