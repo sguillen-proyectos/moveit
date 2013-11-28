@@ -1,15 +1,14 @@
 Player = function() {
   this.CONST = {
-    SPEED: 1.2
+    SPEED: 0.2
   };
 };
 Player.prototype = {
-  isAlive: true,
-
-  init: function() {
+  init: function(modelLoadedCallback) {
+    this.loadModel(modelLoadedCallback);
     var box = new Physijs.BoxMesh(
-      new THREE.CubeGeometry(3, 5, 1),
-      new THREE.MeshPhongMaterial({ color: 0x00ff00, transparent: true, opacity: 0.5 })
+      new THREE.CubeGeometry(1.4, 5, 1),
+      new THREE.MeshPhongMaterial({ color: 0x00ff00, transparent: true, opacity: 0 })
     );
     box.position.y = 3;
     box.position.z = 20;
@@ -18,40 +17,44 @@ Player.prototype = {
     var self = this;
     this.object3D.addEventListener('collision', function(a,b,c) {
       if(a.gameName === 'ground') return;
-      self.isAlive = false;
+
       console.log('Game OVER!!! - ' + a.gameName);
       window.General.gameStarted = false;
+    });
+  },
+  loadModel: function(callback) {
+    var self = this;
+    var loader = new THREE.JSONLoader();
+    loader.load('../models/gastonLagaffe.js', function(geometry) {
+      var mesh = new THREE.Mesh(geometry, new THREE.MeshNormalMaterial());
+      mesh.scale.set(0.5, 0.5, 0.5);
+      mesh.rotation.y = Math.PI/2;
+      mesh.position.set(0, 0, 20);
 
-      self.object3D.position.z = 0;
-      self.object3D.__dirtyPosition = true;
-      setTimeout(function() {
-        self.object3D.rotation.x = 0;
-        self.object3D.rotation.y = 0;
-        self.object3D.rotation.z = 0;
-        self.object3D.__dirtyRotation = true;
-      }, 200);
+      self.model3D = mesh;
+
+      callback(mesh);
     });
   },
   move: function(key) {
     if (key === 37) this.moveLeft();
     else if (key === 39) this.moveRight();
+    else if (key === 32) this.rotateModel();
   },
   moveLeft: function() {
+    this.model3D.rotation.y -= 0.01;
+    this.model3D.position.x -= this.CONST.SPEED;
     this.object3D.position.x -= this.CONST.SPEED;
-
-    // box.position.y = 3.1;
     this.object3D.__dirtyPosition = true;
   },
   moveRight: function() {
+    this.model3D.rotation.y += 0.01;
+    this.model3D.position.x += this.CONST.SPEED;
     this.object3D.position.x += this.CONST.SPEED;
-
-    // box.position.y = 3.1;
     this.object3D.__dirtyPosition = true;
   },
-  update: function() {
-    // if (this.isAlive) {
-    //   this.object3D.position.x += 0.01;
-    // }
+  rotateModel: function() {
+    this.model3D.rotation.y += this.CONST.SPEED;
   },
   getObject3D: function() {
     return this.object3D;

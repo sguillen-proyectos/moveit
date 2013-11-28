@@ -13,13 +13,13 @@
     camera.lookAt(scene.position);
     scene.add(camera);
 
-    var light = new THREE.DirectionalLight( 0xffffff );
-    light.position.set( 0, 20, 35 );
-    light.target.position.copy( scene.position );
+    var light = new THREE.PointLight( 0xffffff );
+    light.position.set( 0, 20, 25 );
+    // light.target.position.copy( scene.position );
     scene.add( light );
 
-    initGame();
-    // initCamera();
+    // initGame();
+    initCamera();
   });
 
   function initGame() {
@@ -65,11 +65,13 @@
       // this.game.player.getObject3D().position =v
       var x = e.x;
       if (165 <= x && x <= 220) {
-        game.player.getObject3D().position.x -= 0.1;
-        game.player.getObject3D().__dirtyPosition = true;
+        // game.player.getObject3D().position.x -= 0.2;
+        // game.player.getObject3D().__dirtyPosition = true;
+        game.player.moveLeft();
       } else if (55 <= x && x <= 130) {
-        game.player.getObject3D().position.x += 0.1;
-        game.player.getObject3D().__dirtyPosition = true;
+        // game.player.getObject3D().position.x += 0.2;
+        // game.player.getObject3D().__dirtyPosition = true;
+        game.player.moveRight();
       }
     });
   }

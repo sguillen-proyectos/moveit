@@ -25,7 +25,7 @@ SoccerBall.prototype = {
     this.object3D.gameName = this.config.name;
   },
   update: function() {
-    if (this.object3D.position.z < 25) {
+    if (this.object3D.position.z < 30) {
       this.object3D.position.z += 0.2;
       this.object3D.rotation.x += 0.1;
       this.object3D.rotation.z += Math.random() * 0.02;
