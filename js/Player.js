@@ -9,7 +9,7 @@ Player.prototype = {
   init: function() {
     var box = new Physijs.BoxMesh(
       new THREE.CubeGeometry(3, 5, 1),
-      new THREE.MeshPhongMaterial({ color: 0x00ff00 })
+      new THREE.MeshPhongMaterial({ color: 0x00ff00, transparent: true, opacity: 0.5 })
     );
     box.position.y = 3;
     box.position.z = 20;
@@ -20,6 +20,8 @@ Player.prototype = {
       if(a.gameName === 'ground') return;
       self.isAlive = false;
       console.log('Game OVER!!! - ' + a.gameName);
+      window.General.gameStarted = false;
+
       self.object3D.position.z = 0;
       self.object3D.__dirtyPosition = true;
       setTimeout(function() {

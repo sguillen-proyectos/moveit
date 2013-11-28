@@ -7,11 +7,10 @@ SoccerBall = function(options) {
     posZ: -20
   };
   $.extend(defaults, options);
+  this.events = {};
   this.config = defaults;
 };
 SoccerBall.prototype = {
-  events: {},
-
   init: function() {
     var texture = THREE.ImageUtils.loadTexture('../img/ball.jpg');
     var geometry = new THREE.SphereGeometry(this.config.size, 32, 32);
@@ -33,7 +32,6 @@ SoccerBall.prototype = {
     } else {
       if (this.events['uselessObject']) {
         if(this.events['uselessObject'].justOne) {
-          console.log('asd');
           this.events['uselessObject'].callback(this.object3D);
           this.events['uselessObject'].justOne = false;
         }

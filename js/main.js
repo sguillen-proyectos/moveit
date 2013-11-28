@@ -18,13 +18,13 @@
     light.target.position.copy( scene.position );
     scene.add( light );
 
-
     initGame();
-
-    requestAnimationFrame(render);
+    // initCamera();
   });
 
   function initGame() {
+    requestAnimationFrame(render);
+
     game = new Game({
       renderer: renderer,
       camera: camera,
@@ -32,9 +32,51 @@
     });
     game.init();
 
+    window.General = {
+      gameStarted: true
+    };
+  }
+
+  function initCamera() {
+    var videoInput = document.getElementById('vid');
+    var canvasInput = document.getElementById('compare');
+    var debugOverlay = document.getElementById('debug');
+
+    var htracker = new headtrackr.Tracker({
+      calcAngles : true,
+      ui : false,
+      headPosition : false,
+      debug : debugOverlay
+    });
+
+    htracker.init(videoInput, canvasInput);
+    htracker.start();
+    var first = true;
+
+    document.addEventListener('headtrackrStatus', function(e) {
+      if(e.status == 'found') {
+        if (first) {
+          first = false;
+          initGame();
+        }
+      }
+    });
+    document.addEventListener('facetrackingEvent', function(e) {
+      // this.game.player.getObject3D().position =v
+      var x = e.x;
+      if (165 <= x && x <= 220) {
+        game.player.getObject3D().position.x -= 0.1;
+        game.player.getObject3D().__dirtyPosition = true;
+      } else if (55 <= x && x <= 130) {
+        game.player.getObject3D().position.x += 0.1;
+        game.player.getObject3D().__dirtyPosition = true;
+      }
+    });
   }
 
   render = function() {
+    if (!window.General.gameStarted) return;
+
     scene.simulate();
     renderer.render(scene, camera);
     game.update();

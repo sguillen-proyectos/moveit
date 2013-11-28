@@ -16,21 +16,22 @@ Game.prototype = {
   box:  undefined,
 
   init: function() {
+    var self = this;
+
     sb1 = new SoccerBall({
       posX: -1, name: 'ball_1'
     });
     sb1.init();
     sb1.addEventListener('uselessObject', function(object) {
-      alert('xD');
+      self.scene.remove(object);
     });
-    var self = this;
     setTimeout(function() {
       sb2 = new SoccerBall({
         posX: 9, name: 'ball_2'
       });
       sb2.init();
-      sb2.addEventListener('uselessObject', function() {
-        alert('OO');
+      sb2.addEventListener('uselessObject', function(object) {
+        self.scene.remove(object);
       });
       self.addMesh(sb2);
     }, 1000);
@@ -58,5 +59,16 @@ Game.prototype = {
     document.addEventListener('keydown', function(e) {
       self.player.move(e.keyCode);
     }, false);
+  },
+  getLevel: function() {
+    var result = {
+      times: [0.1, 1, 1.8, 2.5],
+      positions: [
+        {x: -1, y: 3.1, z: -20},
+        {x: 9, y: 3.1, z: -20},
+        {x: 1, y: 3.1, z: -20},
+        {x: 3, y: 3.1, z: -20}
+      ]
+    };
   }
 };
