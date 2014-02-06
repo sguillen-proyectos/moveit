@@ -1,6 +1,6 @@
 Player = function() {
   this.CONST = {
-    SPEED: 0.2
+    SPEED: 0.27
   };
 };
 Player.prototype = {
